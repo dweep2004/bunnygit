@@ -19,7 +19,7 @@ function setup() {
  obj2=createSprite(320,450,100,20)
  obj2.shapeColor="red"
  edges=createEdgeSprites()
- obj1.velocityX=-4
+ obj1.velocityX=-6
  obj2.velocityX=4
 }
 
